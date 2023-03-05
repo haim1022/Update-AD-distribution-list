@@ -14,8 +14,8 @@ By viewing the all of the company’s users and viewing the current distribution
 ### Code Customization
 #### You can always look for the "#Changes required here" tag in the code itself
 In order to use this application you will need to customize a few global variables:
-$availableDivisions - an array of your company’s available divisions as they will be displayed for the user in the drop down menu.
-a$distributionLists - an array of the actual distribution lists as they appear in your Active directory.
+$availableDivisions - an array of your company’s available divisions as they will be displayed for the user in the drop down menu.  
+$distributionLists - an array of the actual distribution lists as they appear in your Active directory.  
 
 ## Code
 
